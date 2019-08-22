@@ -1,1 +1,1 @@
-# giybasics-august.2019
+# gitbasics-august.2019
